@@ -1,0 +1,56 @@
+{
+	"info": {
+		"_postman_id": "a70c591e-179b-4c35-bcd9-15498443ec5c",
+		"name": "postman学习",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Postman",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "Postman-echo.com/get",
+					"host": [
+						"Postman-echo",
+						"com"
+					],
+					"path": [
+						"get"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "豆瓣",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "Postman-echo.com/get",
+					"host": [
+						"Postman-echo",
+						"com"
+					],
+					"path": [
+						"get"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "项目管理",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
